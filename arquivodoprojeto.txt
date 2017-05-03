@@ -1,1 +1,2 @@
 Alteração no arquivo para o segundo commit do projeto
+Outra alteração para o terceiro commit do projeto
